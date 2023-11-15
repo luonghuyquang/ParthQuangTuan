@@ -1,3 +1,2 @@
 # ParthQuangTuan
-### this is for assignment 1 kNN
-quang2 is creating new content
+### this is for assignment 1 kNN, assignmen 2 kmeans
